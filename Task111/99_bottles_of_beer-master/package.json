@@ -1,0 +1,12 @@
+{
+  "name": "js-99_bottles_of_beer-master",
+  "version": "1.0.0",
+  "main": "../main/main.js",
+  "scripts": {
+    "start": "node ../main/main.js",
+    "test": "jasmine-node spec"
+  },
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
